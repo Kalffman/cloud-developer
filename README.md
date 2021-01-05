@@ -1,4 +1,4 @@
 # cloud-developer
 content for Udacity's cloud developer nanodegree
 
-Cloned by Kalffman
+Cloned by Me
